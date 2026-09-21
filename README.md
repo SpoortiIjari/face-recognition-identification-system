@@ -30,6 +30,13 @@ The system supports both image upload and camera capture.
 
 ---
 
+
+<img width="1366" height="532" alt="Screenshot 2026-09-21 164435" src="https://github.com/user-attachments/assets/b4a40782-b52a-414d-9a8f-d1e62ef985a2" />
+<img width="1235" height="763" alt="Screenshot 2026-09-21 164454" src="https://github.com/user-attachments/assets/8811e7ef-6751-4b39-8440-694ef46cb4c2" />
+<img width="1022" height="497" alt="Screenshot 2026-09-21 164508" src="https://github.com/user-attachments/assets/e8e885ed-f458-439a-81dd-c60c27afb336" />
+
+
+
 ## System Architecture
 
     Input Image / Camera
