@@ -25,15 +25,18 @@ A computer vision-based **Face Recognition Identification System** that detects 
 
 ### Home Page
 
-![Home Page](home.png)
+<img width="1366" height="532" alt="image" src="https://github.com/user-attachments/assets/352ad658-99a6-4aad-b8f4-8b0f388e6913" />
+
 
 ### Face Enrollment
 
-![Face Enrollment](enrollment.png)
+<img width="1235" height="763" alt="image" src="https://github.com/user-attachments/assets/cb06cd1b-cacd-4e68-830a-b3efd3dcf505" />
+
 
 ### Face Recognition
 
-![Face Recognition](recognition.png)
+<img width="1022" height="497" alt="image" src="https://github.com/user-attachments/assets/82f9aef1-7a23-4b6f-8a75-33a24b566bf0" />
+
 
 ---
 
